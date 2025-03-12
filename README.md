@@ -13,7 +13,7 @@ Rancangan aplikasi superapp untuk civitas UPI, dengan berbagai fitur yang mengga
 - **Mental Health Center**: Konsultasi langsung dengan psikolog.
 
 
-Framework : Flutter 3.29 | Language : Dart | Kuis 1 - UI Flutter - Pemrograman Visual dan Piranti Bergerak
+Framework : Flutter 3.29 | Kuis 1 - UI Flutter - Pemrograman Visual dan Piranti Bergerak
 
 ## Tampilan Layar
 
