@@ -14,9 +14,8 @@ Rancangan aplikasi superapp untuk civitas UPI, dengan berbagai fitur yang mengga
 
 
 Framework : Flutter 3.29
-
 Language : Dart
-
+Kuis 1 - UI Flutter - Pemrograman Visual dan Piranti Bergerak
 
 ## Tampilan Layar
 
